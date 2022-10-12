@@ -80,10 +80,7 @@ And that is exactly the first thing that you will do!
 
 <!-------------------------- Start your work below ---------------------------->
 
-1: *apt_buildings*
-2: *cancer_sample*
-3: *flow_sample*
-4: *parking_meters*
+1: *apt_buildings* 2: *cancer_sample* 3: *flow_sample* 4: *parking_meters*
 
 <!----------------------------------------------------------------------------->
 
@@ -391,7 +388,7 @@ Based on the operations that you've completed, how much closer are you to answer
 
 <!-------------------------- Start your work below ---------------------------->
 
--   Now we have found that some biomarkers (variables) could be used for classifying subjects, while others may not. However, we only selected 4 biomarkers out of interest, and we need to finish exploring the rest biomarkers to see whether any of them would also be good choices for classifying subjects.
+-   Now we have found that some biomarkers (variables) could be used for classifying subjects, while others may not. All 4 questions are yielding interesting results. However, we only selected 4 biomarkers out of interest, and we need to finish exploring the rest biomarkers to see whether any of them would also be good choices for classifying subjects.
 
 <!----------------------------------------------------------------------------->
 
