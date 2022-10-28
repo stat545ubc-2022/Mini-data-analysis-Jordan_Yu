@@ -1,3 +1,3 @@
 # Mini-data-analysis-Jordan_Yu
-## This is the repository for STAT545A Mini data analysis project of Jordan Yu.
-The last edit: Oct 12, 2022
+
+This is the repository for STAT545 course project. This project has milestone 1 and milestone 2, and each contents are in their folder respectively. The dataset in this project is cancer_sample from STAT545 course.
